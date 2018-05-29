@@ -11,6 +11,7 @@ Collection of UI/UX guides, tools and resources.
 
 - [Axure RP](https://www.axure.com/)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [FullStory](https://www.fullstory.com/)
 - [Overflow](https://overflow.io/)
 - [Sketchize](https://sketchize.com/)
 
@@ -30,7 +31,11 @@ Collection of UI/UX guides, tools and resources.
 ### Fonts
 
 - [Adobe Typekit](https://typekit.com/)
+- [Fonts In Use](https://fontsinuse.com/)
+- [Fonts Pair](http://fontpair.co/)
+- [Font Reach](http://www.fontreach.com/)
 - [Google Fonts](http://fonts.google.com)
+- [Typ.io](http://typ.io/)
 
 #### Fonts Posts
 
@@ -41,7 +46,7 @@ Collection of UI/UX guides, tools and resources.
 ### Icons
 
 - [Diversity Avatars](https://diversityavatars.com/)
-- [FlatIcon](https://www.flaticon.com/)
+- [Flat Icon](https://www.flaticon.com/)
 - [Font Awesome](http://fontawesome.io)
 - [Orion Icon Library](https://orioniconlibrary.com/)
 
@@ -51,8 +56,10 @@ Collection of UI/UX guides, tools and resources.
 
 ### Images 
 
+- [Burst](https://burst.shopify.com/)
 - [Duotone (by ShapeFactory)](https://duotone.shapefactory.co/)
 - [Moose](https://photos.icons8.com/)
+- [Pixabay](https://pixabay.com/)
 - [UI Faces](https://uifaces.co/)
 - [Unsplash](https://unsplash.com/)
 
@@ -64,9 +71,11 @@ Collection of UI/UX guides, tools and resources.
 ### Guides
 
 - [A Color Exercise for our Brand's Illustration](https://medium.com/building-creative-market/a-color-exercise-for-our-brands-illustration-db39af44f081)
+- [Basic UI Color Guide](https://blog.prototypr.io/basic-ui-color-guide-7612075cc71a)
 - [Color Contrast](https://www.viget.com/articles/color-contrast/)
 - [Guide To Vertical Rhythm](https://iamsteve.me/blog/entry/a-guide-to-vertical-rhythm)
 - [Guide To Dark UI](https://medium.com/ui-lab-school/dark-ui-interfaces-escuras-e6c44a7e7a1f)
+- [Learn UI Design](https://www.commonlounge.com/discussion/d5bae026ef6e4f949e63171e7f6890b3)
 - [Product Design Principles in a Single Card](https://blog.prototypr.io/product-design-principles-in-a-single-card-2f6023419a87)
 - [The Art of Error Messages](https://blog.marvelapp.com/art-error-message/)
 - [Why You Should Never Use Pure Black for Text or Backgrounds](http://uxmovement.com/content/why-you-should-never-use-pure-black-for-text-or-backgrounds/)
@@ -74,6 +83,7 @@ Collection of UI/UX guides, tools and resources.
 ### Design Systems
 
 - [Design Systems List](https://designsystemsrepo.com/)
+- [How To Implement a Design System](https://blog.prototypr.io/how-to-implement-a-design-system-3f815fa96920)
 
 ### Inspiration
 
