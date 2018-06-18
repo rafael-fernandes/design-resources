@@ -31,6 +31,7 @@ Collection of UI/UX guides, tools and resources.
 ### Fonts
 
 - [Adobe Typekit](https://typekit.com/)
+- [Font Combination Library](https://fontcomb.kkuistore.com/)
 - [Fonts In Use](https://fontsinuse.com/)
 - [Fonts Pair](http://fontpair.co/)
 - [Font Reach](http://www.fontreach.com/)
@@ -70,11 +71,17 @@ Collection of UI/UX guides, tools and resources.
 
 ### Guides
 
+- [7 rules for creating visually aesthetic UI](https://medium.com/nyc-design/7-rules-for-creating-visually-aesthetic-ui-6ac0fe8856f?ref=uilab.com.br)
 - [A Color Exercise for our Brand's Illustration](https://medium.com/building-creative-market/a-color-exercise-for-our-brands-illustration-db39af44f081)
 - [Basic UI Color Guide](https://blog.prototypr.io/basic-ui-color-guide-7612075cc71a)
 - [Color Contrast](https://www.viget.com/articles/color-contrast/)
+- [Como alguns princípios da Gestalt pode te ajudar a criar interfaces mais bonitas](https://medium.com/@jesicavieira/como-alguns-princ%C3%ADpios-da-gestalt-pode-te-ajudar-a-criar-interfaces-mais-bonitas-74c7963641cb?ref=uxdesignweekly%3Fref%3Duilab.com.br)
 - [Guide To Vertical Rhythm](https://iamsteve.me/blog/entry/a-guide-to-vertical-rhythm)
 - [Guide To Dark UI](https://medium.com/ui-lab-school/dark-ui-interfaces-escuras-e6c44a7e7a1f)
+- [Intro to The 8-Point Grid System](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)
+- [8-Point Grid: Borders And Layouts](https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091)
+- [8-Point Grid: Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
+- [8-Point Grid: Typography On The Web](https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc)
 - [Learn UI Design](https://www.commonlounge.com/discussion/d5bae026ef6e4f949e63171e7f6890b3)
 - [Product Design Principles in a Single Card](https://blog.prototypr.io/product-design-principles-in-a-single-card-2f6023419a87)
 - [The Art of Error Messages](https://blog.marvelapp.com/art-error-message/)
